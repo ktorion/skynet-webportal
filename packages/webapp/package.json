@@ -6,7 +6,7 @@
   "dependencies": {
     "@fontsource/metropolis": "^4.2.1",
     "axios": "0.21.1",
-    "bytes": "3.1.0",
+    "bytes": "3.1.1",
     "classnames": "2.2.6",
     "gatsby": "^3.0.4",
     "gatsby-plugin-manifest": "^3.0.0",
